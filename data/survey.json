@@ -1,0 +1,1185 @@
+{
+  "source": "Salinan dari Employee Branding Survey.xlsx",
+  "sheet": "Form Responses 1",
+  "questions": [
+    "Timestamp",
+    "1. Status kamu saat ini?",
+    "2. Apakah kamu pernah mencari informasi mengenai suatu perusahaan sebelum melamar pekerjaan?",
+    "3. Saat tertarik melamar ke suatu perusahaan, informasi apa yang biasanya kamu cari terlebih dahulu?",
+    "4. Kanal apa yang paling sering kamu gunakan untuk mencari atau memvalidasi informasi mengenai suatu perusahaan?",
+    "5. Seberapa penting bagi kamu melihat gambaran nyata mengenai budaya dan kehidupan kerja suatu perusahaan sebelum melamar?",
+    "6. Saat mencari informasi perusahaan melalui media sosial, hambatan apa yang paling sering kamu temui?",
+    "7. Ketika melihat informasi mengenai budaya dan kehidupan kerja suatu perusahaan, hal apa yang paling membantu kamu memahami seperti apa bekerja di sana?",
+    "8. Menurut kamu, apa yang masih perlu ditampilkan perusahaan agar calon karyawan mendapatkan gambaran yang lebih nyata mengenai tempat kerja?"
+  ],
+  "records": [
+    {
+      "id": 2,
+      "date": "2026-09-17T10:13:44.999000",
+      "status": "Karyawan / Management Trainee",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "budaya kerja perusahaan seperti apa"
+    },
+    {
+      "id": 3,
+      "date": "2026-09-17T10:16:27.347000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Lingkungan kerja",
+        "Profil dan pengalaman karyawan",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "perlu"
+    },
+    {
+      "id": 4,
+      "date": "2026-09-17T10:17:44.206000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "preferensi kandidat"
+    },
+    {
+      "id": 5,
+      "date": "2026-09-17T10:18:35.280000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas sehari-hari karyawan",
+      "feedback": "."
+    },
+    {
+      "id": 6,
+      "date": "2026-09-17T10:20:00.225000",
+      "status": "Karyawan / Management Trainee",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Profil dan pengalaman karyawan",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "dokumentasi aktivitas internal dan eksternal, update produk dan promosi"
+    },
+    {
+      "id": 7,
+      "date": "2026-09-17T10:30:37.590000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Budaya kerja / workplace culture",
+        "Profil dan pengalaman karyawan",
+        "Benefit / fasilitas"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "company culture, employee spotlight, konten daily life karyawan bisa sih"
+    },
+    {
+      "id": 8,
+      "date": "2026-09-17T10:35:00.249000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "Menurut ku wajib menjelaskan jenjang karir yang mungkin akan didapat oleh para pelamar pekerjaan"
+    },
+    {
+      "id": 9,
+      "date": "2026-09-17T10:37:39.441000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "Gajinya sih kak, soalnya kan banyak tuh perusahaan di indo yg gak nampilin dapet gaji berapa, dan kerjanya berapa jam. Beda sama negara malaysia yg terang-terangan nampilin gaji sama jam kerjanya berapa lama, transparansi aja sih minimal"
+    },
+    {
+      "id": 10,
+      "date": "2026-09-17T11:12:58.799000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Konten jarang diperbarui"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "untuk calon karyawan biasanya memiliki ketertarikan kepada perusahaan dengan adanya content daily life dari karyawan perusahaan tersebut yang biasanya menceritakan keseharian content creator di perusahaan tersebut. Setelahnya, calon talent akan ada ketertarikan dengan memulai kepoin tuh role yang dicari ada/tidak di perusahaan tersebut. Jika ada, langkah selanjutnya calon akan mencari tau lokasi perusahaan di mana di lanjut dengan memvalidasi apakah profil perusahan dan budaya perusahaan tersebut sesuai dengan isi content daily life di perusahaan tersebut. Sederhananya seperti di bawah ini:\n\nAudience (kandidat) setelah melihat content:\n1. Jika tertarik > kepoin perusahaan > apply lamaran\n2. jika tidak tertarik > lanjut scroll (selesai)."
+    },
+    {
+      "id": 11,
+      "date": "2026-09-17T12:31:48.990000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Lingkungan kerja",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "bnyak memberikan kesempatan kepada kami"
+    },
+    {
+      "id": 12,
+      "date": "2026-09-17T12:43:23.522000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik",
+        "Informasi lainnya"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "informasi terkait aktivitas karyawan bekerja sehari-hari"
+    },
+    {
+      "id": 13,
+      "date": "2026-09-17T12:52:16.932000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "Benefit secara lebih rinci"
+    },
+    {
+      "id": 14,
+      "date": "2026-09-17T13:01:02.164000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Benefit / fasilitas",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "kondisi ruangan saat bekerja terutama saat kedatangan leader/atasan lainnya"
+    },
+    {
+      "id": 15,
+      "date": "2026-09-17T13:14:02.811000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "Website resmi perusahaan yang mudah di akses dan tidak membingungkan serta media sosial aktif yang sering update"
+    },
+    {
+      "id": 16,
+      "date": "2026-09-17T13:15:31.236000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "Menampilkan lebih banyak gambaran mengenai aktivitas kerja sehari-hari, lingkungan kerja, budaya kerja, serta contoh proyek yang dikerjakan karyawan agar calon karyawan dapat memahami kondisi kerja secara lebih nyata."
+    },
+    {
+      "id": 17,
+      "date": "2026-09-17T13:18:45.146000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "Menurut saya, perusahaan perlu menampilkan gambaran yang lebih nyata tentang suasana dan budaya kerja sehari-hari, termasuk cara kerja tim, komunikasi, serta pengalaman karyawan."
+    },
+    {
+      "id": 18,
+      "date": "2026-09-17T13:22:54.004000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "Liputan suasana kerja, aktivitas karyawan, budaya perusahaan, fasilitas, serta contoh kegiatan atau proyek yang dikerjakan."
+    },
+    {
+      "id": 19,
+      "date": "2026-09-17T13:24:54.037000",
+      "status": "Karyawan / Management Trainee",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "LinkedIn perusahaan"
+      ],
+      "importance": 3,
+      "barrier": [
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "Gaji"
+    },
+    {
+      "id": 20,
+      "date": "2026-09-17T13:47:04.471000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik",
+        "Informasi lainnya"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "Gaji sih sama lainnya"
+    },
+    {
+      "id": 21,
+      "date": "2026-09-17T14:23:30.713000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas sehari-hari karyawan",
+      "feedback": "Aktivitas karyawan"
+    },
+    {
+      "id": 22,
+      "date": "2026-09-17T16:04:04.021000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "-"
+    },
+    {
+      "id": 23,
+      "date": "2026-09-17T16:34:38.958000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "Menampilkan aspek yang lebih detail dan relateable untuk calon karyawan baru untuk perusahaannya"
+    },
+    {
+      "id": 24,
+      "date": "2026-09-17T17:05:00.503000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Lingkungan kerja",
+        "Benefit / fasilitas",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "Perusahaan perlu menampilkan tentang realita di dalam perusahaan, jika melakukan promosi atau pembukaan lowongan pekerjaan perlu ditonjolkan terkait lingkungan pekerjaan yang sehat."
+    },
+    {
+      "id": 25,
+      "date": "2026-09-17T17:09:15.441000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Benefit / fasilitas"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas sehari-hari karyawan",
+      "feedback": "Menurut saya, lokasi penempatan sangat membantu"
+    },
+    {
+      "id": 26,
+      "date": "2026-09-17T17:13:22.532000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "alur kerja dan benefits"
+    },
+    {
+      "id": 27,
+      "date": "2026-09-17T18:24:47.534000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Tidak",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Career development",
+        "Benefit / fasilitas"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "Suasana kerja sehari-hari, benefit"
+    },
+    {
+      "id": 28,
+      "date": "2026-09-18T06:23:54.917000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Career development",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "Perbanyak video yang menampilkan kegiatan dan aktifitas perusahaan"
+    },
+    {
+      "id": 29,
+      "date": "2026-09-18T08:14:21.817000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Benefit / fasilitas"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "rajin upload konten"
+    },
+    {
+      "id": 30,
+      "date": "2026-09-18T08:16:36.928000",
+      "status": "Karyawan / Management Trainee",
+      "research": "Ya",
+      "information": [
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "Aktifitas diluar pekerjaan sehari hari, sejauh apa aktifitas engagement yang terjalin antar karyawan. Akan lebih terpercaya bila ada video pernyataan langsung dari karyawan yang bekerja disana"
+    },
+    {
+      "id": 31,
+      "date": "2026-09-18T12:06:47.613000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "TikTok"
+      ],
+      "importance": 3,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas sehari-hari karyawan",
+      "feedback": "Konten tentang pekerjaan karyawan"
+    },
+    {
+      "id": 32,
+      "date": "2026-09-18T12:48:14.433000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Website resmi perusahaan"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "Iya"
+    },
+    {
+      "id": 33,
+      "date": "2026-09-18T14:38:44.101000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "Selain konten yang menarik dan relevan tentang budaya kerja. Butuh peningkatan kualitas hasil gambar, mungkin dari alat."
+    },
+    {
+      "id": 34,
+      "date": "2026-09-18T16:30:01.727000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "Behavior Karyawan"
+    },
+    {
+      "id": 35,
+      "date": "2026-09-19T05:06:30.350000",
+      "status": "Karyawan / Management Trainee",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Job portal"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "Dikasih gaji yang besar pak"
+    },
+    {
+      "id": 36,
+      "date": "2026-09-19T05:09:21.913000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan"
+      ],
+      "content": "Pengalaman onboarding / menjadi karyawan baru",
+      "feedback": "mungkin pendapat atau kelah kesah yang dihadapi"
+    },
+    {
+      "id": 37,
+      "date": "2026-09-19T21:58:27.113000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "Website resmi perusahaan"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "posisi"
+    },
+    {
+      "id": 38,
+      "date": "2026-09-21T00:01:36.740000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Website resmi perusahaan"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "Memberikan atau menjelaskan budaya perusahaan yang lebih spesifik untuk para pelamar yg ingin melamar diperusahaan tersebut"
+    },
+    {
+      "id": 39,
+      "date": "2026-09-21T08:55:11.710000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Aktivitas karyawan"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku"
+      ],
+      "content": "Cerita / pengalaman karyawan",
+      "feedback": "-"
+    },
+    {
+      "id": 40,
+      "date": "2026-09-21T08:55:39.521000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Career development",
+        "Benefit / fasilitas"
+      ],
+      "channel": [
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "-"
+    },
+    {
+      "id": 41,
+      "date": "2026-09-21T08:56:30.305000",
+      "status": "Peserta Magang / Internship",
+      "research": "Tidak",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Budaya kerja / workplace culture",
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik",
+        "Informasi lainnya"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "-"
+    },
+    {
+      "id": 42,
+      "date": "2026-09-21T08:56:52.931000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Lingkungan kerja",
+        "Aktivitas karyawan",
+        "Profil dan pengalaman karyawan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Aktivitas team / employee engagement",
+      "feedback": "-"
+    },
+    {
+      "id": 43,
+      "date": "2026-09-21T08:57:37.249000",
+      "status": "Peserta Magang / Internship",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "-"
+    },
+    {
+      "id": 44,
+      "date": "2026-09-21T08:58:17.253000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Konten jarang diperbarui"
+      ],
+      "content": "Aktivitas sehari-hari karyawan",
+      "feedback": "-"
+    },
+    {
+      "id": 45,
+      "date": "2026-09-21T08:58:46.099000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Profil dan pengalaman karyawan",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "-"
+    },
+    {
+      "id": 46,
+      "date": "2026-09-21T08:59:53.501000",
+      "status": "Fresh Graduate (sedang mencari kerja / melamar)",
+      "research": "Ya",
+      "information": [
+        "Informasi lainnya"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 5,
+      "barrier": [
+        "Informasi terlalu formal dan kaku",
+        "Lebih banyak membahas produk/perusahaan daripada kehidupan karyawan",
+        "Jarang memperlihatkan aktivitas sehari-hari karyawan",
+        "Konten jarang diperbarui",
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Suasana bekerja di perusahaan",
+      "feedback": "-"
+    },
+    {
+      "id": 47,
+      "date": "2026-09-21T09:46:43.011000",
+      "status": "Mahasiswa Tingkat Akhir",
+      "research": "Ya",
+      "information": [
+        "Informasi posisi dan pekerjaan",
+        "Profil dan pengalaman karyawan",
+        "Career development",
+        "Benefit / fasilitas",
+        "Nilai dan identitas perusahaan",
+        "Lokasi kantor / pabrik",
+        "Informasi lainnya"
+      ],
+      "channel": [
+        "Instagram perusahaan / akun employer branding",
+        "LinkedIn perusahaan",
+        "Website resmi perusahaan",
+        "Job portal",
+        "TikTok"
+      ],
+      "importance": 4,
+      "barrier": [
+        "Tidak menemukan informasi yang saya cari"
+      ],
+      "content": "Informasi mengenai career development",
+      "feedback": "-"
+    }
+  ]
+}
